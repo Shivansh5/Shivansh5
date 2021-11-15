@@ -1,10 +1,10 @@
-
-
-<h1 align="center">Hi 👋, I'm Shivansh</h1>
-<h3 align="center">A passionate developer from India <img src="https://cdn-icons.flaticon.com/png/128/2412/premium/2412422.png?token=exp=1636915008~hmac=2c46d13f0eb8525387124b30b32df488"height="20" width="20"</h3>
+<h1 align="center"> Hi 👋, I'm Shivansh <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="20" width="20"/> </h1>
+<h3 align="center">A passionate developer from India <img src="https://cdn-icons.flaticon.com/png/128/2412/premium/2412422.png?token=exp=1636915008~hmac=2c46d13f0eb8525387124b30b32df488"height="20" width="20" /> </h3>
 
 <h3 align="center"><img src="https://github.com/Shivansh5/my-image/blob/main/IMG_20211027_074701.jpg?raw=true" alt="Machine Learning" width="400" height="350"/></h3>
-<h3 align="left"> I'm a Tech Enthusiast 😎 who is passionate of understanding the core concepts behind different popular Technological Domains like Data Structure and Algorithms, Data Science, Machine Learning, DevOps Tools, Cloud Computing, Big Data Analysis, Data Bases, Mobile Application Development, Web Technologies, Full Stack Development, Networking, etc. ✨
+<h3 align="center">
+ <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="40" width="40"/> </h3>
+ <h3 align="left">I'm a Tech Enthusiast 😎 who is passionate of understanding the core concepts behind different popular Technological Domains like Data Structure and Algorithms, Data Science, Machine Learning, DevOps Tools, Cloud Computing, Big Data Analysis, Data Bases, Mobile Application Development, Web Technologies, Full Stack Development, Networking, etc. ✨
 </h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -29,3 +29,4 @@
 </p>
 <p align="right">
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img src="https://camo.githubusercontent.com/166a6af24d787a35796e6fd4a858a390f3c8b8d687203d85f4f1eeb57ce7a6c8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466a4550624b7145506850706d433875592f67697068792e676966"  height="100" width="100" />
