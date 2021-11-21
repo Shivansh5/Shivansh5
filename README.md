@@ -19,7 +19,7 @@
  
  
 <a  target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/3860/3860869.png" alt="Computer Vision" width="40" height="40"/> </a> 
-<a  target="_blank"> <img src="https://cdn-icons.flaticon.com/png/128/3098/premium/3098090.png?token=exp=1636911258~hmac=3d8e785be7360e706982f3d003c24916" alt="Python" width="40" height="40"/> </a> 
+<a  target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/128/3664/premium/3664909.png?token=exp=1636911886~hmac=93e0a95dcae96b89f75d483ba321304b" alt="Java" width="40" height="40"/> </a>
