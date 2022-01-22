@@ -11,7 +11,7 @@
  
 <p align="left">
 <a href="https://www.linkedin.com/in/shivansh5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shivansh5/" height="30" width="40" /></a>
-<a href="https://sites.google.com/view/shivansh5" target="blank"><img align="center" src="https://github.com/Shivansh5/my-image/blob/main/world-wide-web.png?raw=true" alt="https://sites.google.com/view/shivansh5" height="30" width="40" /></a>
+<a href="https://shivansh5.github.io/Shivansh/" target="blank"><img align="center" src="https://github.com/Shivansh5/my-image/blob/main/world-wide-web.png?raw=true" alt="https://sites.google.com/view/shivansh5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
